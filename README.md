@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TechKaven</h1>
+<h1 align="center">Hi 👋, I'm Kyu</h1>
 <h3 align="center">A passionate frontend developer from France !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyu&label=Profile%20views&color=0e75b6&style=flat" alt="kyu" /> </p>
