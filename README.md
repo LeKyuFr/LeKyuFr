@@ -47,7 +47,7 @@ const lekyu = {
 
 **Tech Stack:** `Vite` `Chart.js` `Canvas API` `ES6 Modules` `Tailwind CSS`
 
-### 🌐 [Portfolio Interactif](https://lekyu.dev)
+### 🌐 [Portfolio Interactif](https://lekyu.dev) [Privé temporairement.]
 > **Site personnel** avec animations avancées et design moderne
 - ✨ **Animations fluides** avec Framer Motion
 - 🎨 **Design system** cohérent et accessible
@@ -56,7 +56,7 @@ const lekyu = {
 
 **Tech Stack:** `Next.js` `TypeScript` `Framer Motion` `Tailwind CSS`
 
-### 🛒 [E-Commerce Full-Stack](https://github.com/LeKyuFr/modern-ecommerce)
+### 🛒 [E-Commerce Full-Stack](https://github.com/LeKyuFr/modern-ecommerce) [Privé temporairement.]
 > **Plateforme e-commerce** complète avec dashboard admin
 - 💳 **Paiements Stripe** intégrés
 - 📦 **Gestion stocks** en temps réel
@@ -158,7 +158,7 @@ const lekyu = {
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/LeKyuFr/count.svg)
+  ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=LeKyuFr)
   
 </div>
 
