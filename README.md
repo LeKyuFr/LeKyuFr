@@ -115,7 +115,7 @@ const lekyu = {
 
 <div align="center">
   
-  [![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&limit=5)](https://open.spotify.com/user/lekyu)
+  [![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31e4z3svbpupqn2lpqv4hfe6tza4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   
 </div>
 
